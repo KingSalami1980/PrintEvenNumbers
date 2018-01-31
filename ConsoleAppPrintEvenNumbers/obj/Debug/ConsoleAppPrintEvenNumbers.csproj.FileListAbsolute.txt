@@ -1,0 +1,7 @@
+C:\Development\Sandbox\ConsoleAppPrintEvenNumbers\ConsoleAppPrintEvenNumbers\bin\Debug\ConsoleAppPrintEvenNumbers.exe.config
+C:\Development\Sandbox\ConsoleAppPrintEvenNumbers\ConsoleAppPrintEvenNumbers\bin\Debug\ConsoleAppPrintEvenNumbers.exe
+C:\Development\Sandbox\ConsoleAppPrintEvenNumbers\ConsoleAppPrintEvenNumbers\bin\Debug\ConsoleAppPrintEvenNumbers.pdb
+C:\Development\Sandbox\ConsoleAppPrintEvenNumbers\ConsoleAppPrintEvenNumbers\obj\Debug\ConsoleAppPrintEvenNumbers.csprojResolveAssemblyReference.cache
+C:\Development\Sandbox\ConsoleAppPrintEvenNumbers\ConsoleAppPrintEvenNumbers\obj\Debug\ConsoleAppPrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Development\Sandbox\ConsoleAppPrintEvenNumbers\ConsoleAppPrintEvenNumbers\obj\Debug\ConsoleAppPrintEvenNumbers.exe
+C:\Development\Sandbox\ConsoleAppPrintEvenNumbers\ConsoleAppPrintEvenNumbers\obj\Debug\ConsoleAppPrintEvenNumbers.pdb
